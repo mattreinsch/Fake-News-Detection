@@ -1,4 +1,5 @@
 # Fake-News-Detection
+![Fake-News-Detection](Fake_News.jpg)
 In an era where information is disseminated rapidly through social media, distinguishing between real and fake news has become increasingly crucial. This analysis demonstrates how Python can be leveraged to detect fake news using machine learning techniques.
 
 ## What is Fake News?
